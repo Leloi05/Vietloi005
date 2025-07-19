@@ -4,9 +4,17 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Trang Web Của Tôi</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            margin-top: 50px;
+        }
+    </style>
 </head>
 <body>
     <h1>Chào mừng đến với trang web của tôi!</h1>
-    <p>Đây là một trang web đơn giản được tạo bằng HTML.</p>
+    <p>Hôm nay là ngày <strong>19/07/2025</strong>, 15:01 (giờ Việt Nam).</p>
+    <p>Đây là một trang web đơn giản được tạo để thử nghiệm.</p>
 </body>
 </html>
